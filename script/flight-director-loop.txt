@@ -11054,50 +11054,50 @@ Go, FLIGHT.
 [61 17 50 - 61 17 55] FLIGHT
 I still have a question as to what you want me to do if somehow or other something turns up in the guidance during this burn.
 
-[61 17 56 - 61 17 57] GUIDO
+[61 17 56 - 61 17 57] CONTROL
 Okay, I have a recommendation, FLIGHT.
 
 [61 17 58] FLIGHT
 And it is?
 
-[61 17 59 - 61 18 09] GUIDO
+[61 17 59 - 61 18 09] CONTROL
 Okay, with tur - setting up the burn, we would turn the ENGINE GIMBAL switch to OFF, we'd go to PGNS ATT HOLD, MIN IMPULSE on the - on the -
 
 [61 18 09 - 61 18 12] FLIGHT
 Wait a minute. ENGINE GIMBAL - this - wait a minute. We're in the burn, and this is what you -
 
-[61 18 13 - 61 18 14] GUIDO
+[61 18 13 - 61 18 14] CONTROL
 Oh. This is during the burn you're talking about?
 
 [61 18 14] FLIGHT
 Well -
 
-[61 18 15] GUIDO
+[61 18 15] CONTROL
 Okay.
 
 [61 18 15 - 61 18 17] FLIGHT
 That's when this started. What do you want me to do for -
 
-[61 18 17 - 61 18 25] GUIDO
+[61 18 17 - 61 18 25] CONTROL
 Okay. If he's in the burn, they'd go ENGINE GIMBAL off and just use the TTCA to hold attitude. And then as he can, to turn the MODE CONTROL switch to ATT HOLD.
 > It's exactly the same recommendation.
 
 [61 18 33 - 61 18 34] FLIGHT
 MODE CONTROL to ATT HOLD.
 
-[61 18 35] GUIDO
+[61 18 35] CONTROL
 Roger.
 
 [61 18 44] FLIGHT
 In that order?
 
-[61 18 46 - 61 18 51] GUIDO
+[61 18 46 - 61 18 51] CONTROL
 Yeah. ENGINE GIMBAL off, MODE CONTROL to ATT HOLD, and utilize the TTCA.
 
 [61 18 52 - 61 18 53] FLIGHT
 Okay. So you changed the order.
 
-[61 18 55 - 61 19 05] GUIDO
+[61 18 55 - 61 19 05] CONTROL
 Well, this MODE CONTROL to ATT HOLD, he can do that - he should do that as soon as he can, but that - the most important thing is he get attitude control, and he has to do that with the TTCA. So it'll probably be a simultaneous thing.
 
 [61 19 06] FLIGHT
